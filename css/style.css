@@ -1,0 +1,181 @@
+*{
+    margin:0;
+    padding:0;
+    font-size: 18px;;
+}
+.container{
+    width:1200px;
+    margin:0 auto;
+
+}
+header{
+    background-color:#7F56F5;
+    color:#fff;
+    padding:50px 0;
+    overflow: hidden;
+}
+.navbar .logo{
+    width:20%;
+    float:left;
+    margin-top: -14px;
+
+}
+.navbar nav{
+    width:80%;
+    float:left;
+    text-align: right;
+
+}
+.navbar nav ul{
+    list-style: none;
+}
+.navbar nav ul li{
+    display: inline;
+}
+.navbar nav ul li a{
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-left: 20px;
+
+}
+.hero{
+    text-align: center;
+    width:100%;
+    margin-top: 20px;
+    padding-top:50px;
+}
+.hero h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.hero p{
+    font-size:20px;
+}
+.details-info{
+    margin:50px 0;
+    overflow: hidden; 
+}
+.details-info .details{}
+.details-info .details .content{
+    width:40%;
+    float:left;
+    margin-right:10%;
+}
+.details-info .details .content img{}
+.details-info .details .content h2{
+    font-size:40px;
+    margin:10px 0;
+}
+.details-info .details .content p{
+    margin-top: 20px;
+}
+.details-info .details .image{
+    width:50%;
+    float:left;
+}
+.details-info .details .content button{
+     margin:20px 0;
+     padding: 11px 15px;
+     color:white;
+     background:#7F56F5;
+     text-transform: uppercase;
+     font-weight: 700;
+     letter-spacing: 3px;
+     border:none;
+     border-radius: 10px;
+     cursor:pointer;
+}
+footer{
+    background-color:#473db438 ;
+    padding: 100px ;
+}
+.contact-item{}
+.contact-item .footer-item{
+    width:25%;
+    float:left;
+} 
+.contact-item img{
+    margin: 0 0;
+    margin-bottom: 20px;
+}
+.contact-item .footer-item img{} 
+.contact-item .footer-item p{} 
+.contact-item .footer-item li{
+    list-style: none;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    color: black;
+    text-transform: lowercase;
+    text-transform:capitalize ;
+    font-weight: 700;
+} 
+#bg-image{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
